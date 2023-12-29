@@ -1,4 +1,4 @@
-# Neighbourhood-Level-Federal-Census-Data-Analysis
+# Neighbourhood Level Federal Census Data Analysis
 
 This repository contains data analysis project and Jupyter Notebooks scripts focusing on the Neighbourhood-Level Federal Census Data provided by the City of Edmonton. The data explores various dimensions such as neighbourhood characteristics, age, gender, income, visible minorities, households, families, education, and citizenship.
 
